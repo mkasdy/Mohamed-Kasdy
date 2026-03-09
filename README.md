@@ -1,7 +1,8 @@
 # こんにちは、Moです 👋
 ### Hi, I'm Mo (Mohamed Kasdy)
 
-**Product Manager** · Sydney 🇦🇺 → Tokyo 🇯🇵
+**Product Manager** · 🇪🇬 Egypt → 🇬🇧 London → 🇦🇪 Dubai → 🇲🇾 Malaysia → 🇦🇺 Sydney
+
 
 ---
 
