@@ -49,7 +49,7 @@ Research    →  Dovetail · Maze · Hotjar
 
 | Company | Role | Domain |
 |--------|------|--------|
-| Smokeball | Senior PM | LegalTech |
+| Smokeball | PM | LegalTech |
 | Sympli | PM | PropTech / FinTech |
 | Schlumberger | PO | Energy / Enterprise |
 
