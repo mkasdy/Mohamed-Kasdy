@@ -56,11 +56,14 @@ Research    →  Dovetail · Maze · Hotjar
 ---
 
 ## 🌐 Let's Connect / つながりましょう
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedkasdy.com-navy?style=flat&logo=globe)](https://mohamedkasdy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Kasdy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedkasdy)
+[![Relocify](https://img.shields.io/badge/Project-Relocify.app-teal?style=flat&logo=rocket)](https://relocify.app)
 
-[![LinkedIn](https://www.linkedin.com/in/mohamedkasdy/
+
 
 ---
 
-*Australian Global Talent visa recipient 🇦🇺 · Currently open to Senior PM opportunities in Tokyo 🗼*
+*Australian Global Talent visa recipient 🇦🇺 · Currently open to Product Leader opportunities 🗼*
 
 
